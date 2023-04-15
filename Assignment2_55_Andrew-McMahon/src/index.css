@@ -1,0 +1,100 @@
+
+body {
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  background-color: rgb(3, 146, 103);
+  font-family: "Roboto", sans-serif;
+}
+
+#searchbar {
+  border-radius: 10px;
+  border-color: #FFFFFF;
+  background-color: #FFFFFF;
+  color:#000000;
+}
+
+.btn-primary{
+  background-color: green !important;
+}
+
+.btn-secondary{
+  background-color: red;
+}
+
+.productName{
+  color:#000000;
+
+}
+
+.header-text{
+  color:#000000
+}
+
+.cartQuantity{
+  color:#000000;
+}
+
+.payment-confirm{
+  color:#000000
+}
+
+.payment-user-confirm{
+  color:#100f48;
+}
+
+.price{
+  text-align: right;
+  color:#000000;
+  margin: 100px;
+}
+
+.plus-mybtn {
+  margin-left: 20px;
+}
+
+.minus-mybtn {
+  margin-right: 20px;
+}
+
+
+.container {
+  display: flex;
+}
+
+.payment-container {
+  width: 450%;
+  margin-left: auto;
+}
+
+.cart-container {
+  width: 20%;
+}
+
+.item {
+  width: 100%;
+  height: 140px;
+  border: 10px solid #000000;
+  text-align: left;
+}
+
+.image {
+  margin-right: 40px;
+  margin-left: 50px;
+  width: 20%;
+}
+
+.search-bar{
+  text-align: left;
+}
+
+.quantity input {
+  border: none;
+  text-align: center;
+  width: 32px;
+  font-size: 16px;
+  color: #dce0e5;
+  font-weight: 300;
+}
+
+
