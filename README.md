@@ -1,3 +1,3 @@
 # secoms319
 
-# index.html at the root level currently calls our code for the Midterm project.
+# Here is my work (current) for S E/COM S 319
