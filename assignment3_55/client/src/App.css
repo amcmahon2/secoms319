@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  background-color: #c1ecc1; 
+}
+
+button {
+  background-color: rgba(141, 120, 191, 0.342); 
+  color: #1a56cf; 
+  font-size: 1.2em; 
+  border: none; 
+  border-radius: 10px; 
+  padding: 10px;
+  margin: 10px; 
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.3);
+}
+
+button:hover {
+  background-color: rgba(46, 33, 187, 0.342); 
+  color: #fff; 
+  cursor: pointer; 
+}
+
+img {
+  max-width: 50%; 
+  height: fit-content; 
+}
+
+body{
+  background-color: rgba(141, 120, 191, 0.342);
+}
+
+
+.form-data{
+  margin: 3px;
+  padding: 3px;
+}
+
+.banner {
+  background-color: rgba(141, 120, 191, 0.342);
+  border-radius: 13px;
+  height: 100px;
+  width: 100%;
+  position: static;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.3); 
+}
+
