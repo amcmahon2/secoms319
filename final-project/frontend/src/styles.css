@@ -1,0 +1,71 @@
+
+
+#update-form label {
+    display: block;
+    font-size: 1.2em;
+    margin-bottom: 0.5em;
+  }
+  
+  #update-form input,
+  #update-form textarea {
+    padding: 0.5em;
+    font-size: 1.2em;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 1em;
+    width: 100%;
+    box-sizing: border-box; /* Add this line */
+  }
+  
+  #update-form input[type="date"] {
+    padding: 0.5em;
+    font-size: 1.2em;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 1em;
+    width: 100%;
+    box-sizing: border-box; /* Add this line */
+  }
+  
+  #update-form .form-buttons {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 1em;
+  }
+  
+  #update-form button {
+    padding: 0.5em 1em;
+    margin-left: 1em;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #update-form .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-right: 1em;
+  }
+  
+  #update-form .form-group label {
+    margin-bottom: 0.5em;
+  }
+  
+  #update-form .form-group input {
+    padding: 0.5em;
+    font-size: 1.2em;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 1em;
+    box-sizing: border-box; /* Add this line */
+  }
+  
+  #update-form .form-group input[type="date"] {
+    padding: 0.5em;
+    font-size: 1.2em;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 1em;
+    box-sizing: border-box; /* Add this line */
+  }
